@@ -22,7 +22,7 @@ export default function Header({
             <a href="index.html">
               <img
                 className="img-fluid"
-                src="/img/logo-2.svg"
+                src="/img/logo.svg"
                 alt="imagen logo"
               />
             </a>
